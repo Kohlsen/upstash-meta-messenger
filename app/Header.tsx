@@ -26,6 +26,7 @@ async function Header() {
             <LogoutButton />
         </header>
     )
+    
   return (
     <header className='sticky top-0 z-50 bg-white flex justify-center items-center p-10 shadow-sm'>
       <div className="flex flex-col items-center space-y-5">
